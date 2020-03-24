@@ -1,0 +1,17 @@
+# Project Info
+site_name: LinuxDocs
+
+# Repo Info
+repo_url: https://github.com/Ahaupt3/ahaupt3.github.io
+
+# Configuration
+markdown_extensions:
+  - admonition
+  
+plugins:
+  - git-revision-date-localized:
+      type: timeago
+  - minify:
+      minify_html: true
+  - search
+theme: material
