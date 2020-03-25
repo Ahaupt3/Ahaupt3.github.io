@@ -1,0 +1,8 @@
+{
+    "name": "TechSec.io",
+    "short_name": "TechSec",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "My personal collections of Pentesting methods, Linux tools, & useful Bash tricks."
+}
