@@ -30,7 +30,6 @@ plugins:
   - search
 
 extra:
-  disqus: techsec-io
   manifest: manifest.webmanifest
   social:
     - type: github-alt
