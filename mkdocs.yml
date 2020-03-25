@@ -1,0 +1,91 @@
+# Project Info
+site_name: TechSec.io
+site_description: Random thoughts from my Linux journey
+site_author: Alex Haupt
+site_url: https://ahaupt3.github.io
+copyright: Copyright &copy; 2020 Alex Haupt
+
+# Repo Info
+repo_name: Ahaupt3/ahaupt3.github.io
+repo_url: https://github.com/Ahaupt3/ahaupt3.github.io
+
+# Configuration
+theme: 
+  name: material
+  custom_dir: theme/
+  palette:
+    primary: black
+    accent: teal
+  font:
+    text: Ubuntu
+    code: Ubuntu Mono
+  feature:
+    tabs: true
+
+plugins:
+  - git-revision-date-localized:
+      type: timeago
+  - minify:
+      minify_html: true
+  - search
+
+extra:
+  disqus: techsec-io
+  manifest: manifest.webmanifest
+  social:
+    - type: github-alt
+      link: https://github.com/Ahaupt3
+    - type: twitter
+      link: https://twitter.com/TechsechIO
+    - type: linkedin
+      link: https://www.linkedin.com/in/alex-haupt/
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Navigation
+nav:
+  - TechSec.io: index.md
+  - Pentesting:
+    - Recon: pentesting/recon.md
+    - Enumeration: pentesting/enum.md
+    - Vulnerabilities: pentesting/vulns.md
+    - Exploitation: pentesting/exploit.md
+    - Post-Exploitation: pentesting/post-exploit.md
+    - Reporting: pentesting/report.md
+  - Tools:
+    - Chrome: tools/chrome.md
+    - Conky: tools/conky.md
+    - Etcher: tools/etcher.md
+    - Flameshot: tools/flameshot.md
+    - f.lux: tools/flux.md
+    - iDrive: tools/idrive.md
+    - Nord VPN: tools/nord-vpn.md
+    - Solaar: tools/solaar.md
+    - Tweaks: tools/tweaks.md
+    - VMware: tools/vmware.md
+    - VS Code: tools/vs-code.md
+    - ZSH: tools/zsh.md
+  - CMD:
+    - Backup/Recovery:
+      - Timeshift Backup/Restore: cmd/timeshift.md
