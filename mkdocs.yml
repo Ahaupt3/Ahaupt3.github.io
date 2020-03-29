@@ -10,6 +10,8 @@ repo_name: Ahaupt3/ahaupt3.github.io
 repo_url: https://github.com/Ahaupt3/ahaupt3.github.io
 
 # Configuration
+edit_uri:
+
 theme: 
   name: material
   custom_dir: theme/
@@ -70,6 +72,7 @@ nav:
     - Enumeration: pentesting/enum.md
     - Vulnerabilities: pentesting/vulns.md
     - Exploitation: pentesting/exploit.md
+    - Bruteforce: pentesting/bruteforce.md
     - Post-Exploitation: pentesting/post-exploit.md
     - Reporting: pentesting/report.md
   - Tools:
@@ -88,3 +91,4 @@ nav:
   - CMD:
     - Backup/Recovery:
       - Timeshift Backup/Restore: cmd/timeshift.md
+    - Duplicate Icon - App Launch: cmd/launch-app-dupe.md
