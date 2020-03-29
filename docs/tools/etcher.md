@@ -1,5 +1,7 @@
 # Etcher
 
+![Screenshot](../img/tools/etcher.png)
+
 ## Installation
 
 ### Add Repo to Sources & Add Repo Key

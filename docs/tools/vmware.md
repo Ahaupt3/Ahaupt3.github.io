@@ -1,5 +1,7 @@
 # VMware
 
+![Screenshot](../img/tools/vmware.png)
+
 ## Installation
 
 ### Install build packages

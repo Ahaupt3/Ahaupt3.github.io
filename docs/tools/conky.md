@@ -1,5 +1,7 @@
 # Conky
 
+![Screenshot](../img/tools/conky.jpg)
+
 ## Installation
 
 ### Install Conky

@@ -1,5 +1,7 @@
 # f.lux
 
+![Screenshot](../img/tools/flux.png)
+
 ## Installation
 
 ### Install f.lux

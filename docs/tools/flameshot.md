@@ -1,5 +1,7 @@
 # Flameshot
 
+![Screenshot](../img/tools/flameshot.jpg)
+
 ## Installation
 
 ### Install Flameshot

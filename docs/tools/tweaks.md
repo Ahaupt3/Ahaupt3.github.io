@@ -1,5 +1,7 @@
 # Tweaks
 
+![Screenshot](../img/tools/tweaks.png)
+
 ## Installation
 
 ### Install Tweaks

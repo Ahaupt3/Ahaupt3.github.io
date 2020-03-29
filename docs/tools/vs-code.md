@@ -1,5 +1,7 @@
 # Code
 
+![Screenshot](../img/tools/vs-code.jpg)
+
 ## Installation
 
 ### Import GPG Key & Add Repo to Sources

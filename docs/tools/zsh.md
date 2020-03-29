@@ -1,5 +1,7 @@
 # ZSH
 
+![Screenshot](../img/tools/zsh.png)
+
 ## Installation
 
 ### Install Terminator

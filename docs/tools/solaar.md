@@ -1,5 +1,7 @@
 # Solaar
 
+![Screenshot](../img/tools/solaar.jpg)
+
 ## Installation
 
 ### Install Solaar

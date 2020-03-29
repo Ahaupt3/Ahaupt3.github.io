@@ -1,5 +1,7 @@
 # Nord VPN
 
+![Screenshot](../img/tools/nord-vpn.png)
+
 ## Installation
 
 ### Download Nord VPN

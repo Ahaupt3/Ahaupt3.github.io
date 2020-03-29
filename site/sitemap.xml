@@ -1,83 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://ahaupt3.github.io/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/pentesting/recon/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/pentesting/enum/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/pentesting/vulns/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/pentesting/exploit/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ahaupt3.github.io/pentesting/bruteforce/</loc>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/pentesting/post-exploit/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/pentesting/report/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/tools/chrome/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/tools/conky/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/tools/etcher/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/tools/flameshot/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/tools/flux/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/tools/idrive/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/tools/nord-vpn/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/tools/solaar/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/tools/tweaks/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/tools/vmware/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/tools/vs-code/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/tools/zsh/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ahaupt3.github.io/cmd/timeshift/</loc>
-     <lastmod>2020-03-24</lastmod>
+     <lastmod>2020-03-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ahaupt3.github.io/cmd/launch-app-dupe/</loc>
+     <lastmod>2020-03-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

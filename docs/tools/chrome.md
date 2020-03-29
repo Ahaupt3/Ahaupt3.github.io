@@ -1,5 +1,7 @@
 # Chrome
 
+![Screenshot](../img/tools/chrome.jpg)
+
 ## Installation
 
 ### Download Chrome
