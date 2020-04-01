@@ -2,7 +2,7 @@
 
 My personal collections of Pentesting methods, Linux tools, & useful Bash tricks.
 
-![Screenshot](img/kalibuntu.jpg)
+![Screenshot](docs/img/kalibuntu.jpg)
 
 ## Pentesting
 
