@@ -70,9 +70,14 @@ nav:
   - Pentesting:
     - Recon: pentesting/recon.md
     - Enumeration: pentesting/enum.md
-    - Vulnerabilities: pentesting/vulns.md
     - Exploitation: pentesting/exploit.md
-    - Bruteforce: pentesting/bruteforce.md
+    - Privilege Escalation: pentesting/priv-esc.md
+    - Miscellaneous:
+      - Bruteforce: pentesting/bruteforce.md
+      - Metasploit: pentesting/metasploit.md
+      - Shells: pentesting/shells.md
+      - Software Notes: pentesting/software.md
+      - Vulnerabilities: pentesting/vulns.md
     - Post-Exploitation: pentesting/post-exploit.md
     - Reporting: pentesting/report.md
   - Tools:
@@ -95,3 +100,4 @@ nav:
       - Backup/Recovery:
         - Timeshift Backup/Restore: cmd/timeshift.md
       - Duplicate Icon - App Launch: cmd/launch-app-dupe.md
+      
